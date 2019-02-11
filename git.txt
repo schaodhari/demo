@@ -1,0 +1,34 @@
+git config --global user.name "schoudhari"
+
+git config --global user.email "schoudhari@techracers.io"
+
+git init
+
+git add -A
+
+git status
+
+git commit -m "Initial commit"
+
+git diff
+
+git commit -m "Modified cpp"
+
+git log
+
+git remote -v
+
+git branch -a
+
+git pull origin master
+
+
+
+
+
+
+
+
+git tag -a v1. -m "my version 1.0"
+
+git show v1.0
