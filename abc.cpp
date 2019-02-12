@@ -1,7 +1,7 @@
 //ne cpp file
 
 #include <cstdlib.h>
-
+#include <algo.h>
 int main()
 {
 	int x,y,z;
