@@ -32,3 +32,51 @@ git pull origin master
 git tag -a v1. -m "my version 1.0"
 
 git show v1.0
+
+git-cherry-pick - Apply the changes introduced by some existing commit
+
+##alternative to git 
+
+	CVS
+	Mercurial
+	SVN
+	Monotone
+	Bazaar
+
+
+URL type for cloning 
+
+  ssh, git,http, ftp
+
+HEAD - where dpes it point 
+
+	currently checked out commit 
+
+how to push at multiple repo 
+
+	install some CLI(co0mmand line i/f) tools for each services
+	github - use hub and git remote -v 
+	gitlab - rubygem
+	bitbucket - pip 
+	set an endpoint to API
+	configure by remote -v 
+
+flags of git reset 
+
+
+
+stash 
+=========================================
+ssh key setup
+
+force pull
+
+submodule 
+
+force push 
+
+avoid merge commit 
+
+rebase 
+
+how to push withoutr entering password 
